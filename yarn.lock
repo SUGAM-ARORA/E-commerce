@@ -1041,13 +1041,13 @@ __metadata:
   linkType: hard
 
 "@wix/events@npm:^1.0.93":
-  version: 1.0.131
-  resolution: "@wix/events@npm:1.0.131"
+  version: 1.0.133
+  resolution: "@wix/events@npm:1.0.133"
   dependencies:
     "@wix/metro-runtime": ^1.0.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.0
     "@wix/sdk-types": ^1.0.0
-  checksum: cf32d0527c664fc7a270e3a684dd1e7a44bcb746a6b9adce01159469763a71c3be41da24d7fdb57afaef55eb92afee939e211f5ae2b1e9e6c3c6713156927a5c
+  checksum: b154e427ae486fce7722f39eb6ffb48cdc8ded34ecc11981be952bbf5d71d4c2ede45ae7793c63b474ab2dc1e35666318ffce912b5315e915cbb3e5a51244b63
   languageName: node
   linkType: hard
 
