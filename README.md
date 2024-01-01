@@ -1,3 +1,6 @@
+## Problem 
+Edge function crashes
+
 # A Wix Events and Wix eCommerce Next.js Music Tour Template
 
 ![Template showcase](docs/media/template-showcase.gif)
