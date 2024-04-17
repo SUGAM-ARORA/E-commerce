@@ -946,12 +946,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:18.0.8":
-  version: 18.0.8
-  resolution: "@types/react-dom@npm:18.0.8"
+"@types/react-dom@npm:18.2.25":
+  version: 18.2.25
+  resolution: "@types/react-dom@npm:18.2.25"
   dependencies:
     "@types/react": "*"
-  checksum: 522e5e949d05f35c6037a2290838c9c7ff92a9d06f7d96b993c7c3f5a86d8f3a6337e059c94e6fb0920227f445e5d1ce10fbfe3d9bbd95fb82a5539249d90646
+  checksum: 85f9278d6456c6cdc76da6806a33b472588cdd029b08dde32e8b5636b25a3eae529b4ac2e08c848a3d7ca44e4e97ee9a3df406c96fa0768de935c8eed6e07590
   languageName: node
   linkType: hard
 
@@ -7494,7 +7494,7 @@ __metadata:
     "@types/js-cookie": ^3.0.3
     "@types/node": 20.12.7
     "@types/react": 18.0.24
-    "@types/react-dom": 18.0.8
+    "@types/react-dom": 18.2.25
     "@wix/ecom": ^1.0.532
     "@wix/events": ^1.0.181
     "@wix/redirects": ^1.0.13
