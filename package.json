@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@netlify/plugin-nextjs": "^5.2.1",
-    "@tanstack/react-query": "^5.32.1",
+    "@tanstack/react-query": "^5.35.1",
     "@types/js-cookie": "^3.0.3",
     "@wix/ecom": "^1.0.540",
     "@wix/events": "^1.0.193",
