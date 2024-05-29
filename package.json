@@ -15,7 +15,7 @@
     "@netlify/plugin-nextjs": "^5.2.1",
     "@tanstack/react-query": "^5.32.1",
     "@types/js-cookie": "^3.0.3",
-    "@wix/ecom": "^1.0.552",
+    "@wix/ecom": "^1.0.570",
     "@wix/events": "^1.0.193",
     "@wix/redirects": "^1.0.43",
     "@wix/sdk": "^1.9.3",
