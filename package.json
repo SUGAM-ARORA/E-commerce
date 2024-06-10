@@ -18,7 +18,7 @@
     "@wix/ecom": "^1.0.593",
     "@wix/events": "^1.0.214",
     "@wix/redirects": "^1.0.47",
-    "@wix/sdk": "^1.9.3",
+    "@wix/sdk": "^1.9.8",
     "@wix/stores": "^1.0.154",
     "body-scroll-lock": "^4.0.0-beta.0",
     "cookie": "^0.6.0",
