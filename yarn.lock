@@ -624,9 +624,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/ecom@npm:^1.0.593":
-  version: 1.0.593
-  resolution: "@wix/ecom@npm:1.0.593"
+"@wix/ecom@npm:^1.0.594":
+  version: 1.0.594
+  resolution: "@wix/ecom@npm:1.0.594"
   dependencies:
     "@wix/ecom_abandoned-checkouts": 1.0.27
     "@wix/ecom_additional-fees": 1.0.1
@@ -639,7 +639,7 @@ __metadata:
     "@wix/ecom_currencies": 1.0.22
     "@wix/ecom_current-cart": 1.0.40
     "@wix/ecom_custom-triggers": 1.0.1
-    "@wix/ecom_discount-rules": 1.0.32
+    "@wix/ecom_discount-rules": 1.0.33
     "@wix/ecom_order-fulfillments": 1.0.28
     "@wix/ecom_order-invoices": 1.0.24
     "@wix/ecom_order-transactions": 1.0.35
@@ -649,7 +649,7 @@ __metadata:
     "@wix/ecom_recommendations": 1.0.25
     "@wix/ecom_shipping-rates": 1.0.5
     "@wix/ecom_validations": 1.0.2
-  checksum: 26b551acd8182007bed556f089aafb7f712235e092b507ae5a6e34cd72cd19d2339f4547b7f436d85298884f96feb48d9c34894463115e121203b6d95ce18a4d
+  checksum: b40fba73b6ba5f24c85c79cb2e9a544df80743e9427934c243fe81b7cc69eec64232e6c896b7f5ace7253fcd74b10ce7bfac79182122c60c3490175d14e5d194
   languageName: node
   linkType: hard
 
@@ -785,15 +785,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/ecom_discount-rules@npm:1.0.32":
-  version: 1.0.32
-  resolution: "@wix/ecom_discount-rules@npm:1.0.32"
+"@wix/ecom_discount-rules@npm:1.0.33":
+  version: 1.0.33
+  resolution: "@wix/ecom_discount-rules@npm:1.0.33"
   dependencies:
     "@wix/metro-runtime": ^1.1696.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.2.12
     "@wix/sdk-types": ^1.7.1
-  checksum: f0525fe18fb28b921d96f46d873b497f9e7939ce3ffd422d2857be15e56e423746717df2e2a9afa3f1fdaf7c86b3ba613430ae89cb1d6a2c572330b27b732880
+  checksum: 211a1ed4f4e719e1862c8aeebb053d89aa4b2956c11c92299207e71bab436877dfb9e35411d6bd1280ea4b179919a66aa1b2bc0ae8e3dbbb14f89073c94c0404
   languageName: node
   linkType: hard
 
@@ -6139,7 +6139,7 @@ __metadata:
     "@types/node": 20.14.2
     "@types/react": 18.3.3
     "@types/react-dom": 18.3.0
-    "@wix/ecom": ^1.0.593
+    "@wix/ecom": ^1.0.594
     "@wix/events": ^1.0.214
     "@wix/redirects": ^1.0.48
     "@wix/sdk": ^1.9.8
