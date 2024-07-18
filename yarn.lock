@@ -1502,13 +1502,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/sdk-runtime@npm:0.3.10":
-  version: 0.3.10
-  resolution: "@wix/sdk-runtime@npm:0.3.10"
+"@wix/sdk-runtime@npm:0.3.11":
+  version: 0.3.11
+  resolution: "@wix/sdk-runtime@npm:0.3.11"
   dependencies:
     "@wix/sdk-context": ^0.0.1
     "@wix/sdk-types": ^1.9.2
-  checksum: 4ce1541199823e3c7e174326eb9bf1ebf644294ffcbb253615f64f3578d6f82ba62944e8b7d33b9906ecead757490a10471d91652a6ed9f0320a82ac2e40f6dc
+  checksum: 7d97ac34d7f93d7479b3392dcb47c9a49e036365c47fa5a4a91df6240f06c275d0a68156fb0540259bfe5a004e0575975d0c5c9934df61421171a94915aff0ca
   languageName: node
   linkType: hard
 
@@ -1568,16 +1568,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/sdk@npm:^1.12.5":
-  version: 1.12.5
-  resolution: "@wix/sdk@npm:1.12.5"
+"@wix/sdk@npm:^1.12.6":
+  version: 1.12.6
+  resolution: "@wix/sdk@npm:1.12.6"
   dependencies:
     "@babel/runtime": ^7.23.2
     "@wix/identity": ^1.0.78
     "@wix/image-kit": ^1.73.0
     "@wix/redirects": ^1.0.41
     "@wix/sdk-context": ^0.0.1
-    "@wix/sdk-runtime": 0.3.10
+    "@wix/sdk-runtime": 0.3.11
     "@wix/sdk-types": ^1.9.2
     crypto-js: ^4.2.0
     graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
@@ -1588,7 +1588,7 @@ __metadata:
   dependenciesMeta:
     graphql:
       optional: true
-  checksum: d7c1cc7875d8b3288ad829e45bf100161014f2af5e5b530c0cc3fb3cc72e60edcf70a0171b4312e931800bc429137965fdc9869abaffd904523fa889b1d8805e
+  checksum: a666b42821e5cf081d41830830e3992f432e4a5b5e9dc6aa9e93c40b392cf85ebb1887d7a95855471af64bcdc6add00985a38a2b07249db32725be768de3d7e7
   languageName: node
   linkType: hard
 
@@ -6392,7 +6392,7 @@ __metadata:
     "@wix/ecom": ^1.0.660
     "@wix/events": ^1.0.229
     "@wix/redirects": ^1.0.48
-    "@wix/sdk": ^1.12.5
+    "@wix/sdk": ^1.12.6
     "@wix/stores": ^1.0.166
     autoprefixer: ^10.4.13
     body-scroll-lock: ^4.0.0-beta.0
