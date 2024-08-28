@@ -18,12 +18,12 @@
     "@wix/ecom": "^1.0.660",
     "@wix/events": "^1.0.229",
     "@wix/redirects": "^1.0.48",
-    "@wix/sdk": "^1.12.5",
+    "@wix/sdk": "^1.12.12",
     "@wix/stores": "^1.0.166",
     "body-scroll-lock": "^4.0.0-beta.0",
     "cookie": "^0.6.0",
     "date-fns": "^3.6.0",
-    "flowbite": "^2.4.1",
+    "flowbite": "^2.5.1",
     "flowbite-react": "^0.10.1",
     "js-cookie": "^3.0.1",
     "jsurl": "^0.1.5",
@@ -33,7 +33,7 @@
     "react-google-recaptcha-enterprise": "^1.0.3"
   },
   "devDependencies": {
-    "@playwright/test": "^1.45.2",
+    "@playwright/test": "^1.46.1",
     "@types/cookie": "^0.6.0",
     "@types/node": "20.14.11",
     "@types/react": "18.3.3",
@@ -43,10 +43,10 @@
     "eslint-config-next": "^14.2.5",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^5.2.1",
-    "postcss": "^8.4.39",
+    "postcss": "^8.4.41",
     "prettier": "^3.3.3",
     "tailwindcss": "^3.4.10",
-    "typescript": "5.5.3"
+    "typescript": "5.5.4"
   },
   "packageManager": "yarn@3.3.0"
 }

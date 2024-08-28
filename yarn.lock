@@ -46,12 +46,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.24.8":
-  version: 7.24.8
-  resolution: "@babel/runtime@npm:7.24.8"
+"@babel/runtime@npm:^7.25.0":
+  version: 7.25.0
+  resolution: "@babel/runtime@npm:7.25.0"
   dependencies:
     regenerator-runtime: ^0.14.0
-  checksum: 6b1e4230580f67a807ad054720812bbefbb024cc2adc1159d050acbb764c4c81c7ac5f7a042c48f578987c5edc2453c71039268df059058e9501fa6023d764b0
+  checksum: 4a2a374a58eb01aaa65c5762606e90b3a1f448e0c637d42278b6cc0b42a9f5399b5f381ba9f237ee087da2860d14dd2d1de7bddcbe18be6a3cafba97e44bed64
   languageName: node
   linkType: hard
 
@@ -421,14 +421,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@playwright/test@npm:^1.45.2":
-  version: 1.45.2
-  resolution: "@playwright/test@npm:1.45.2"
+"@playwright/test@npm:^1.46.1":
+  version: 1.46.1
+  resolution: "@playwright/test@npm:1.46.1"
   dependencies:
-    playwright: 1.45.2
+    playwright: 1.46.1
   bin:
     playwright: cli.js
-  checksum: 7f916fde237e6f5a5461571da026a959f8730dccfad6b4ee01ed6566089c750b8079c3a9930c45875faf67a7418195a8b11e0cdb6134405805065f6c7ee347de
+  checksum: 180d90c6421ee6a8c00a1ae65d91d5f69767e2de95c3f5582ac2bdf3a388e621fdd3ee00ecb7836db427bb0d4cee58111c14f133cb62150357d8e4f43e3e2295
   languageName: node
   linkType: hard
 
@@ -1250,13 +1250,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/image-kit@npm:^1.73.0":
-  version: 1.73.0
-  resolution: "@wix/image-kit@npm:1.73.0"
+"@wix/image-kit@npm:^1.78.0":
+  version: 1.79.0
+  resolution: "@wix/image-kit@npm:1.79.0"
   dependencies:
-    "@babel/runtime": ^7.24.8
+    "@babel/runtime": ^7.25.0
     tslib: ^2.6.3
-  checksum: 1f2671e65002037d06686d040057fd01c8851150cf0706c131a55e6a3e36ddc74501608496b377088aab8d0b4efbf7ba3a998743684248873c1cc4495f968de6
+  checksum: ab3ecd20aec6b35518ec0824acff9dd168a0bfea3548fdc81d0faca7a74de354d13688e6e093adfa1eb7d782b8f86d6f5b7eb7425e16682109bf8bcf87eeadd5
   languageName: node
   linkType: hard
 
@@ -1502,13 +1502,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/sdk-runtime@npm:0.3.10":
-  version: 0.3.10
-  resolution: "@wix/sdk-runtime@npm:0.3.10"
+"@wix/sdk-runtime@npm:0.3.16":
+  version: 0.3.16
+  resolution: "@wix/sdk-runtime@npm:0.3.16"
   dependencies:
     "@wix/sdk-context": ^0.0.1
-    "@wix/sdk-types": ^1.9.2
-  checksum: 4ce1541199823e3c7e174326eb9bf1ebf644294ffcbb253615f64f3578d6f82ba62944e8b7d33b9906ecead757490a10471d91652a6ed9f0320a82ac2e40f6dc
+    "@wix/sdk-types": ^1.9.3
+  checksum: db1ecb0e08e73ca8a51f10f80f37a70da678996a900c2c010bf09dea6b32b9252690d026035c8bcab06e6e76edb0f0e537055b461434c03b2c10bc8db05353b4
   languageName: node
   linkType: hard
 
@@ -1561,24 +1561,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/sdk-types@npm:^1.9.2":
-  version: 1.9.2
-  resolution: "@wix/sdk-types@npm:1.9.2"
-  checksum: ec7c64ebbf6dc2c15dcf9d891dc0dc8fc4e206219e1395d52b9ef7b151810f3c2ff6b222b629ea93a4705b55ef9d8eb72df8ba0f733c625f66442551ef07448c
+"@wix/sdk-types@npm:^1.9.3":
+  version: 1.9.3
+  resolution: "@wix/sdk-types@npm:1.9.3"
+  checksum: 06434a24114c49df049b3cb1a4a35ead4ff84b02fc5ceb211d14578bd4c1e74215a87b9de0ba7bb478a987c0cd1b37f8f2f849bbd0217505ecfe1be6ead7f2b3
   languageName: node
   linkType: hard
 
-"@wix/sdk@npm:^1.12.5":
-  version: 1.12.5
-  resolution: "@wix/sdk@npm:1.12.5"
+"@wix/sdk@npm:^1.12.12":
+  version: 1.12.12
+  resolution: "@wix/sdk@npm:1.12.12"
   dependencies:
     "@babel/runtime": ^7.23.2
     "@wix/identity": ^1.0.78
-    "@wix/image-kit": ^1.73.0
+    "@wix/image-kit": ^1.78.0
     "@wix/redirects": ^1.0.41
     "@wix/sdk-context": ^0.0.1
-    "@wix/sdk-runtime": 0.3.10
-    "@wix/sdk-types": ^1.9.2
+    "@wix/sdk-runtime": 0.3.16
+    "@wix/sdk-types": ^1.9.3
     crypto-js: ^4.2.0
     graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
     jose: ^5.2.1
@@ -1588,7 +1588,7 @@ __metadata:
   dependenciesMeta:
     graphql:
       optional: true
-  checksum: d7c1cc7875d8b3288ad829e45bf100161014f2af5e5b530c0cc3fb3cc72e60edcf70a0171b4312e931800bc429137965fdc9869abaffd904523fa889b1d8805e
+  checksum: a5e6e5249caa93354d62794ac5cb8cffd4d06a16ccc6a1fe65386d7ae8837f7cd976ed3623dc0492ed98bb242a9e16fe552a6760c96480d5c34fe9640739a2d6
   languageName: node
   linkType: hard
 
@@ -3236,7 +3236,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:^2.0.0, flowbite@npm:^2.4.1":
+"flowbite@npm:^2.0.0":
   version: 2.4.1
   resolution: "flowbite@npm:2.4.1"
   dependencies:
@@ -3244,6 +3244,17 @@ __metadata:
     flowbite-datepicker: ^1.3.0
     mini-svg-data-uri: ^1.4.3
   checksum: 23a0f2f7cfc34ffb011a58fb4e4a5518f33a825f232afc7302935b70bca084ffacc8092d8f10bbffe9675529eb45de0a12d57ce8a8299ed59e96a982477347a2
+  languageName: node
+  linkType: hard
+
+"flowbite@npm:^2.5.1":
+  version: 2.5.1
+  resolution: "flowbite@npm:2.5.1"
+  dependencies:
+    "@popperjs/core": ^2.9.3
+    flowbite-datepicker: ^1.3.0
+    mini-svg-data-uri: ^1.4.3
+  checksum: f475e5bf869cbece13f8f0ce48de9b3d34028348e89f76ca5149d698ecd7d8a2b06f1f9e41b6f9c42aade9461e26ed87de40b0cbb1b8d36c4c2f89afbaa35e29
   languageName: node
   linkType: hard
 
@@ -5081,27 +5092,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"playwright-core@npm:1.45.2":
-  version: 1.45.2
-  resolution: "playwright-core@npm:1.45.2"
+"playwright-core@npm:1.46.1":
+  version: 1.46.1
+  resolution: "playwright-core@npm:1.46.1"
   bin:
     playwright-core: cli.js
-  checksum: 536423bfb320ad045b638498748df5681585dadda8bae1eff8995c70fcd6695761caf3c331c1e807e323e2af431bb15b0216142c5315d28f110b129f6e800b30
+  checksum: 99a03f97d76af02b0565aa09758eb03427e13497ef7e9e9044fd1184a5f050e7545a517dd7ad8988a68b3ea76e2ba0d411f81e410b1cb29f5ac9161c49689822
   languageName: node
   linkType: hard
 
-"playwright@npm:1.45.2":
-  version: 1.45.2
-  resolution: "playwright@npm:1.45.2"
+"playwright@npm:1.46.1":
+  version: 1.46.1
+  resolution: "playwright@npm:1.46.1"
   dependencies:
     fsevents: 2.3.2
-    playwright-core: 1.45.2
+    playwright-core: 1.46.1
   dependenciesMeta:
     fsevents:
       optional: true
   bin:
     playwright: cli.js
-  checksum: ff37a27f85220363fcc6876389f58ea43f95946a1c26a8153b5f831e3a6693772e4ff45290e32dc193b4f64bc5053dbae3305432eaf5bd4a7dc6782e9b7b8e4a
+  checksum: 9e721cb27f919cd92ea8c7461f4a8e97e32eade9da036baa4747f483549e33a8d77585f51e228d6639a1e28a76b0c1d59ca0a05dbd07aa3cfe427be7aaeb9ec8
   languageName: node
   linkType: hard
 
@@ -5197,14 +5208,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.39":
-  version: 8.4.39
-  resolution: "postcss@npm:8.4.39"
+"postcss@npm:^8.4.41":
+  version: 8.4.41
+  resolution: "postcss@npm:8.4.41"
   dependencies:
     nanoid: ^3.3.7
     picocolors: ^1.0.1
     source-map-js: ^1.2.0
-  checksum: 14b130c90f165961772bdaf99c67f907f3d16494adf0868e57ef68baa67e0d1f6762db9d41ab0f4d09bab6fb7888588dba3596afd1a235fd5c2d43fba7006ac6
+  checksum: f865894929eb0f7fc2263811cc853c13b1c75103028b3f4f26df777e27b201f1abe21cb4aa4c2e901c80a04f6fb325ee22979688fe55a70e2ea82b0a517d3b6f
   languageName: node
   linkType: hard
 
@@ -6182,23 +6193,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:5.5.3":
-  version: 5.5.3
-  resolution: "typescript@npm:5.5.3"
+"typescript@npm:5.5.4":
+  version: 5.5.4
+  resolution: "typescript@npm:5.5.4"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 4b4f14313484d5c86064d04ba892544801fa551f5cf72719b540b498056fec7fc192d0bbdb2ba1448e759b1548769956da9e43e7c16781e8d8856787b0575004
+  checksum: b309040f3a1cd91c68a5a58af6b9fdd4e849b8c42d837b2c2e73f9a4f96a98c4f1ed398a9aab576ee0a4748f5690cf594e6b99dbe61de7839da748c41e6d6ca8
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@5.5.3#~builtin<compat/typescript>":
-  version: 5.5.3
-  resolution: "typescript@patch:typescript@npm%3A5.5.3#~builtin<compat/typescript>::version=5.5.3&hash=d73830"
+"typescript@patch:typescript@5.5.4#~builtin<compat/typescript>":
+  version: 5.5.4
+  resolution: "typescript@patch:typescript@npm%3A5.5.4#~builtin<compat/typescript>::version=5.5.4&hash=d73830"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 6853be4607706cc1ad2f16047cf1cd72d39f79acd5f9716e1d23bc0e462c7f59be7458fe58a21665e7657a05433d7ab8419d093a5a4bd5f3a33f879b35d2769b
+  checksum: fc52962f31a5bcb716d4213bef516885e4f01f30cea797a831205fc9ef12b405a40561c40eae3127ab85ba1548e7df49df2bcdee6b84a94bfbe3a0d7eff16b14
   languageName: node
   linkType: hard
 
@@ -6382,7 +6393,7 @@ __metadata:
   resolution: "wix-commerce-ticketing-nextjs-template@workspace:."
   dependencies:
     "@netlify/plugin-nextjs": ^5.5.1
-    "@playwright/test": ^1.45.2
+    "@playwright/test": ^1.46.1
     "@tanstack/react-query": ^5.40.1
     "@types/cookie": ^0.6.0
     "@types/js-cookie": ^3.0.3
@@ -6392,7 +6403,7 @@ __metadata:
     "@wix/ecom": ^1.0.660
     "@wix/events": ^1.0.229
     "@wix/redirects": ^1.0.48
-    "@wix/sdk": ^1.12.5
+    "@wix/sdk": ^1.12.12
     "@wix/stores": ^1.0.166
     autoprefixer: ^10.4.13
     body-scroll-lock: ^4.0.0-beta.0
@@ -6402,18 +6413,18 @@ __metadata:
     eslint-config-next: ^14.2.5
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^5.2.1
-    flowbite: ^2.4.1
+    flowbite: ^2.5.1
     flowbite-react: ^0.10.1
     js-cookie: ^3.0.1
     jsurl: ^0.1.5
     next: ^14.2.5
-    postcss: ^8.4.39
+    postcss: ^8.4.41
     prettier: ^3.3.3
     react: ^18.3.1
     react-dom: ^18.3.1
     react-google-recaptcha-enterprise: ^1.0.3
     tailwindcss: ^3.4.10
-    typescript: 5.5.3
+    typescript: 5.5.4
   languageName: unknown
   linkType: soft
 
