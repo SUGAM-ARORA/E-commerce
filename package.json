@@ -16,7 +16,7 @@
     "@tanstack/react-query": "^5.52.2",
     "@types/js-cookie": "^3.0.3",
     "@wix/ecom": "^1.0.660",
-    "@wix/events": "^1.0.229",
+    "@wix/events": "^1.0.263",
     "@wix/redirects": "^1.0.48",
     "@wix/sdk": "^1.12.12",
     "@wix/stores": "^1.0.166",
