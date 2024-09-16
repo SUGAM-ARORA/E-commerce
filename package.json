@@ -22,7 +22,7 @@
     "@wix/stores": "^1.0.215",
     "body-scroll-lock": "^4.0.0-beta.0",
     "cookie": "^0.6.0",
-    "date-fns": "^3.6.0",
+    "date-fns": "^4.0.0",
     "flowbite": "^2.5.1",
     "flowbite-react": "^0.10.1",
     "js-cookie": "^3.0.1",
