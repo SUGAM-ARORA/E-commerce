@@ -1792,9 +1792,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/stores@npm:^1.0.215":
-  version: 1.0.215
-  resolution: "@wix/stores@npm:1.0.215"
+"@wix/stores@npm:^1.0.216":
+  version: 1.0.216
+  resolution: "@wix/stores@npm:1.0.216"
   dependencies:
     "@wix/stores_brands-v-3": 1.0.9
     "@wix/stores_catalog-provision": 1.0.10
@@ -1804,12 +1804,12 @@ __metadata:
     "@wix/stores_inventory": 1.0.38
     "@wix/stores_inventory-items-v-3": 1.0.12
     "@wix/stores_products": 1.0.48
-    "@wix/stores_products-v-3": 1.0.31
+    "@wix/stores_products-v-3": 1.0.32
     "@wix/stores_ribbons-v-3": 1.0.10
     "@wix/stores_stores-locations-v-3": 1.0.11
     "@wix/stores_subscription-options": 1.0.35
     "@wix/stores_wishlist": 1.0.29
-  checksum: 3437b634df7ac0388b86d1927eb2c6e842d5c5471097be6baf113abde6463d6f1aa8cc0b906e325b256204aa9b4c58eb645526032d3c9ad2b1248d8416d41a19
+  checksum: c035071bfc40797e82cb16cf7df67a0ecc28116cadaa9ac0bd429caae09ee99890656aa6b67b8cb5704194b07e4621ff80fae06b069723b31ef271397f6a2144
   languageName: node
   linkType: hard
 
@@ -1897,15 +1897,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/stores_products-v-3@npm:1.0.31":
-  version: 1.0.31
-  resolution: "@wix/stores_products-v-3@npm:1.0.31"
+"@wix/stores_products-v-3@npm:1.0.32":
+  version: 1.0.32
+  resolution: "@wix/stores_products-v-3@npm:1.0.32"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.9.2
-  checksum: c3de53e59048338d0abcdbfe1ed5da2c14999d766a7b173027cc8c35edebf22e769baf0404191618f66faf7d2d6f78c054c3f5765c5de9f7176b8b217e1a296f
+  checksum: d07364cd625375440f75f5d522e41bf15445b84a2e5b258a73125d3c688fbb9cbca0db50ed20e65697c3a698ae222bea4d6f68236a8f4cc494b22824799cd471
   languageName: node
   linkType: hard
 
@@ -6721,7 +6721,7 @@ __metadata:
     "@wix/events": ^1.0.263
     "@wix/redirects": ^1.0.55
     "@wix/sdk": ^1.12.12
-    "@wix/stores": ^1.0.215
+    "@wix/stores": ^1.0.216
     autoprefixer: ^10.4.20
     body-scroll-lock: ^4.0.0-beta.0
     cookie: ^0.6.0
