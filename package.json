@@ -23,7 +23,7 @@
     "body-scroll-lock": "^4.0.0-beta.0",
     "cookie": "^0.6.0",
     "date-fns": "^4.1.0",
-    "flowbite": "^2.5.1",
+    "flowbite": "^2.5.2",
     "flowbite-react": "^0.10.1",
     "js-cookie": "^3.0.1",
     "jsurl": "^0.1.5",
