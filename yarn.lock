@@ -260,10 +260,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/plugin-nextjs@npm:^5.7.0":
-  version: 5.7.0
-  resolution: "@netlify/plugin-nextjs@npm:5.7.0"
-  checksum: 10fd43f3a94b826265ce21409e0e3284eedd65d9f776af0892963ecd0921ddc71c80454c7cad029166e757a9382e0b1ef8b73af8e9e23c3248c731fa5b507bca
+"@netlify/plugin-nextjs@npm:^5.7.3":
+  version: 5.7.3
+  resolution: "@netlify/plugin-nextjs@npm:5.7.3"
+  checksum: df55a55401ec63296a5c8b2510c7bf317ae3c5dbefbd0e90e3b57029494b3e3d27be1c6e8b83aa08e2473e20d0762c4adabfc75c08b14732103dce455830a565
   languageName: node
   linkType: hard
 
@@ -6709,7 +6709,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "wix-commerce-ticketing-nextjs-template@workspace:."
   dependencies:
-    "@netlify/plugin-nextjs": ^5.7.0
+    "@netlify/plugin-nextjs": ^5.7.3
     "@playwright/test": ^1.47.0
     "@tanstack/react-query": ^5.55.0
     "@types/cookie": ^0.6.0
