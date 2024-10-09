@@ -2566,10 +2566,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cookie@npm:^0.6.0":
-  version: 0.6.0
-  resolution: "cookie@npm:0.6.0"
-  checksum: f56a7d32a07db5458e79c726b77e3c2eff655c36792f2b6c58d351fb5f61531e5b1ab7f46987150136e366c65213cbe31729e02a3eaed630c3bf7334635fb410
+"cookie@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "cookie@npm:1.0.0"
+  checksum: a35e0746c9eefa2736cd55aa905351727f16e8d2f68219cd369c0a7b95f38288daec84082cf789bf1408d7cb09d48a568077c8e2417a664bca298615eb21b7df
   languageName: node
   linkType: hard
 
@@ -6724,7 +6724,7 @@ __metadata:
     "@wix/stores": ^1.0.216
     autoprefixer: ^10.4.20
     body-scroll-lock: ^4.0.0-beta.0
-    cookie: ^0.6.0
+    cookie: ^1.0.0
     date-fns: ^4.1.0
     eslint: ^9.9.1
     eslint-config-next: ^14.2.8
