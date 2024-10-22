@@ -12,7 +12,7 @@
     "lint": "next lint --fix"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "^5.7.0",
+    "@netlify/plugin-nextjs": "^5.8.1",
     "@tanstack/react-query": "^5.55.0",
     "@types/js-cookie": "^3.0.3",
     "@wix/ecom": "^1.0.735",
