@@ -1678,12 +1678,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/redirects@npm:^1.0.58":
-  version: 1.0.58
-  resolution: "@wix/redirects@npm:1.0.58"
+"@wix/redirects@npm:^1.0.59":
+  version: 1.0.59
+  resolution: "@wix/redirects@npm:1.0.59"
   dependencies:
     "@wix/redirects_redirects": 1.0.28
-  checksum: 4957b61ac4a34b2497c09cbf0e55e4e330e8ff5434757ee83b1cc248c7c731aabefc03dc133d5114d5e6d6bfd7677fab45f8f1b74d7ccd9cfc231efe8e37a575
+  checksum: 0071f7428d8be5713f136af58c07faf0aa0893f6253385a5312e4683897c8dc607358ccb4f780de111d4830ee16c9e48b0712846f61487878155eabb498d49e4
   languageName: node
   linkType: hard
 
@@ -6726,7 +6726,7 @@ __metadata:
     "@types/react-dom": 18.3.0
     "@wix/ecom": ^1.0.735
     "@wix/events": ^1.0.263
-    "@wix/redirects": ^1.0.58
+    "@wix/redirects": ^1.0.59
     "@wix/sdk": ^1.12.12
     "@wix/stores": ^1.0.216
     autoprefixer: ^10.4.20
