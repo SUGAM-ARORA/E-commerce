@@ -530,10 +530,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/cookie@npm:^0.6.0":
-  version: 0.6.0
-  resolution: "@types/cookie@npm:0.6.0"
-  checksum: 5edce7995775b0b196b142883e4d4f71fd93c294eaec973670f1fa2540b70ea7390408ed513ddefef5fcb12a578100c76596e8f2a714b0c2ae9f70ee773f4510
+"@types/cookie@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@types/cookie@npm:1.0.0"
+  dependencies:
+    cookie: "*"
+  checksum: fb0ad67988f3d3e4a181c7758f2db02e9b661d2e56b60256f5071a9458cf9e4425c18ce201c68f44d8022d0a5618f1f205db812ed28c3983c3579c759764d0b6
   languageName: node
   linkType: hard
 
@@ -2566,10 +2568,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cookie@npm:^0.6.0":
-  version: 0.6.0
-  resolution: "cookie@npm:0.6.0"
-  checksum: f56a7d32a07db5458e79c726b77e3c2eff655c36792f2b6c58d351fb5f61531e5b1ab7f46987150136e366c65213cbe31729e02a3eaed630c3bf7334635fb410
+"cookie@npm:*, cookie@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "cookie@npm:1.0.2"
+  checksum: 2c5a6214147ffa7135ce41860c781de17e93128689b0d080d3116468274b3593b607bcd462ac210d3a61f081db3d3b09ae106e18d60b1f529580e95cf2db8a55
   languageName: node
   linkType: hard
 
@@ -6719,7 +6721,7 @@ __metadata:
     "@netlify/plugin-nextjs": ^5.7.0
     "@playwright/test": ^1.47.0
     "@tanstack/react-query": ^5.55.0
-    "@types/cookie": ^0.6.0
+    "@types/cookie": ^1.0.0
     "@types/js-cookie": ^3.0.3
     "@types/node": 22.5.4
     "@types/react": 18.3.7
@@ -6731,7 +6733,7 @@ __metadata:
     "@wix/stores": ^1.0.216
     autoprefixer: ^10.4.20
     body-scroll-lock: ^4.0.0-beta.0
-    cookie: ^0.6.0
+    cookie: ^1.0.2
     date-fns: ^4.1.0
     eslint: ^9.9.1
     eslint-config-next: ^14.2.8
