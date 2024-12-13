@@ -1844,9 +1844,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/stores@npm:^1.0.309":
-  version: 1.0.309
-  resolution: "@wix/stores@npm:1.0.309"
+"@wix/stores@npm:^1.0.310":
+  version: 1.0.310
+  resolution: "@wix/stores@npm:1.0.310"
   dependencies:
     "@wix/stores_brands-v-3": 1.0.29
     "@wix/stores_catalog-versioning": 1.0.14
@@ -1855,13 +1855,13 @@ __metadata:
     "@wix/stores_info-sections-v-3": 1.0.31
     "@wix/stores_inventory": 1.0.67
     "@wix/stores_inventory-items-v-3": 1.0.35
-    "@wix/stores_products": 1.0.91
+    "@wix/stores_products": 1.0.92
     "@wix/stores_products-v-3": 1.0.79
     "@wix/stores_ribbons-v-3": 1.0.25
     "@wix/stores_stores-locations-v-3": 1.0.31
     "@wix/stores_subscription-options": 1.0.50
     "@wix/stores_wishlist": 1.0.43
-  checksum: 3134409f8fb00503b22bce649acba04455bae32399491b26b7b4cf65032d1ef86261fe4877acb89eb38e8f3ee52ecc1588a7ce21971949c7bc5a2624fa46cd09
+  checksum: 6b3fcc1c676dd85fe7b570bc182439e046c71076dac5e313b306a7bdffa3fde2c65c381488753a26cf8ed2e900f6c357781acafc8b3f630bd686104223fe1cd4
   languageName: node
   linkType: hard
 
@@ -1945,13 +1945,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/stores_products@npm:1.0.91":
-  version: 1.0.91
-  resolution: "@wix/stores_products@npm:1.0.91"
+"@wix/stores_products@npm:1.0.92":
+  version: 1.0.92
+  resolution: "@wix/stores_products@npm:1.0.92"
   dependencies:
     "@wix/sdk-runtime": ^0.3.22
     "@wix/sdk-types": ^1.12.4
-  checksum: 8e48e8d33881a80b06a01409eaf5cce544df2ea53811a81d3b6ded35409115d91945286e8f11843a9b683ce230ca814c76f6a13df0928d5156027b943984152a
+  checksum: e699790d190f98ceaff36f63a955477c5d4397e929a05e73e8ebfff94cc273f38554e639734b7e61f3888b5a560b4dd376e690d7a7328a8d8e9586dc7b25368a
   languageName: node
   linkType: hard
 
@@ -3573,7 +3573,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:2.5.1, flowbite@npm:^2.5.1":
+"flowbite@npm:2.5.1":
   version: 2.5.1
   resolution: "flowbite@npm:2.5.1"
   dependencies:
@@ -3584,7 +3584,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:^2.5.2":
+"flowbite@npm:^2.0.0, flowbite@npm:^2.5.2":
   version: 2.5.2
   resolution: "flowbite@npm:2.5.2"
   dependencies:
@@ -6746,7 +6746,7 @@ __metadata:
     "@wix/events": ^1.0.351
     "@wix/redirects": ^1.0.64
     "@wix/sdk": ^1.12.12
-    "@wix/stores": ^1.0.309
+    "@wix/stores": ^1.0.310
     autoprefixer: ^10.4.20
     body-scroll-lock: ^4.0.0-beta.0
     cookie: ^1.0.2
@@ -6755,8 +6755,8 @@ __metadata:
     eslint-config-next: ^14.2.8
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^5.2.1
-    flowbite-react: ^0.10.2
     flowbite: ^2.5.2
+    flowbite-react: ^0.10.2
     js-cookie: ^3.0.1
     jsurl: ^0.1.5
     next: ^14.2.8
