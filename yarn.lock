@@ -1715,12 +1715,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/redirects@npm:^1.0.64":
-  version: 1.0.64
-  resolution: "@wix/redirects@npm:1.0.64"
+"@wix/redirects@npm:^1.0.67":
+  version: 1.0.67
+  resolution: "@wix/redirects@npm:1.0.67"
   dependencies:
-    "@wix/redirects_redirects": 1.0.33
-  checksum: 100e054fd1244dcc23a7e0a5aae087b20e36b2ed5ae40c3ff8c00c625bcdfa585e7945acc9979577303388377170e49a23111ee8048cb7cfbe2965b4524f13a6
+    "@wix/redirects_redirects": 1.0.36
+  checksum: ad59070b0e8c8cc56233d53ad09097b53db718b86ce77b03a9849325c18bfada0a0b007f3b6bfe2a3ce0e24478aae16937a9d0a90ff6bc081b404a7f9026bd48
   languageName: node
   linkType: hard
 
@@ -1736,13 +1736,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/redirects_redirects@npm:1.0.33":
-  version: 1.0.33
-  resolution: "@wix/redirects_redirects@npm:1.0.33"
+"@wix/redirects_redirects@npm:1.0.36":
+  version: 1.0.36
+  resolution: "@wix/redirects_redirects@npm:1.0.36"
   dependencies:
     "@wix/sdk-runtime": ^0.3.22
     "@wix/sdk-types": ^1.12.4
-  checksum: f9c5c5300b46ba2eb472aa8db1f1c4c0cc874506717fc30161467376f0092b362ae4f9e49a0ab629f1586811dba37072e079eef48926177e1a80b1e4fcd3cb56
+  checksum: 56622f4785fda66e9c961c7521f2f6a424b2d673925abaad1cb7d6f6be2fee3cc447ee53597cd644a3c81667a13d853e835311f33d95d0a918e3d8e986b95cd6
   languageName: node
   linkType: hard
 
@@ -3573,7 +3573,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:2.5.1, flowbite@npm:^2.5.1":
+"flowbite@npm:2.5.1":
   version: 2.5.1
   resolution: "flowbite@npm:2.5.1"
   dependencies:
@@ -3584,7 +3584,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:^2.5.2":
+"flowbite@npm:^2.0.0, flowbite@npm:^2.5.2":
   version: 2.5.2
   resolution: "flowbite@npm:2.5.2"
   dependencies:
@@ -6744,7 +6744,7 @@ __metadata:
     "@types/react-dom": 18.3.1
     "@wix/ecom": ^1.0.735
     "@wix/events": ^1.0.351
-    "@wix/redirects": ^1.0.64
+    "@wix/redirects": ^1.0.67
     "@wix/sdk": ^1.12.12
     "@wix/stores": ^1.0.309
     autoprefixer: ^10.4.20
@@ -6755,8 +6755,8 @@ __metadata:
     eslint-config-next: ^14.2.8
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^5.2.1
-    flowbite-react: ^0.10.2
     flowbite: ^2.5.2
+    flowbite-react: ^0.10.2
     js-cookie: ^3.0.1
     jsurl: ^0.1.5
     next: ^14.2.8
