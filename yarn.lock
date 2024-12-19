@@ -307,10 +307,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/plugin-nextjs@npm:^5.9.0":
-  version: 5.9.0
-  resolution: "@netlify/plugin-nextjs@npm:5.9.0"
-  checksum: ad6f66a38e1bd202d3b2b5870ae33b2ffb7a0554baf7c853b9305d3be84d9769f3132016bac0e38c2637fd5bc562ed57922825e1d8bd6670cc270bc248dab925
+"@netlify/plugin-nextjs@npm:^5.9.1":
+  version: 5.9.1
+  resolution: "@netlify/plugin-nextjs@npm:5.9.1"
+  checksum: 1a2b4d22762506c814dffedee4b2e4aa2bc7ef68ca374e2c6a5233d56f93374fe426d5fc64756a8d43f6ecdd43c0ea2bbc2a22d0011884a3974158d33aaaaf2e
   languageName: node
   linkType: hard
 
@@ -3573,7 +3573,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:2.5.1, flowbite@npm:^2.5.1":
+"flowbite@npm:2.5.1":
   version: 2.5.1
   resolution: "flowbite@npm:2.5.1"
   dependencies:
@@ -3584,7 +3584,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:^2.5.2":
+"flowbite@npm:^2.0.0, flowbite@npm:^2.5.2":
   version: 2.5.2
   resolution: "flowbite@npm:2.5.2"
   dependencies:
@@ -6734,7 +6734,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "wix-commerce-ticketing-nextjs-template@workspace:."
   dependencies:
-    "@netlify/plugin-nextjs": ^5.9.0
+    "@netlify/plugin-nextjs": ^5.9.1
     "@playwright/test": ^1.47.0
     "@tanstack/react-query": ^5.55.0
     "@types/cookie": ^1.0.0
@@ -6755,8 +6755,8 @@ __metadata:
     eslint-config-next: ^14.2.8
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^5.2.1
-    flowbite-react: ^0.10.2
     flowbite: ^2.5.2
+    flowbite-react: ^0.10.2
     js-cookie: ^3.0.1
     jsurl: ^0.1.5
     next: ^14.2.8
