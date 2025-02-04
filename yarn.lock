@@ -3516,6 +3516,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"flowbite-datepicker@npm:^1.3.1":
+  version: 1.3.2
+  resolution: "flowbite-datepicker@npm:1.3.2"
+  dependencies:
+    "@rollup/plugin-node-resolve": ^15.2.3
+    flowbite: ^2.0.0
+  checksum: 22fb7552cf96d9df25406fce0e5638be7dd8d0715cbc4521b4c1b628ec2aaf8f54e49b9e8c1479223d2d51fa99046cf0f351fe5aa11f1db8c7b4200e36f060b4
+  languageName: node
+  linkType: hard
+
 "flowbite-react@npm:^0.10.2":
   version: 0.10.2
   resolution: "flowbite-react@npm:0.10.2"
@@ -3546,7 +3556,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:^2.0.0, flowbite@npm:^2.5.2":
+"flowbite@npm:^2.0.0":
   version: 2.5.2
   resolution: "flowbite@npm:2.5.2"
   dependencies:
@@ -3554,6 +3564,18 @@ __metadata:
     flowbite-datepicker: ^1.3.0
     mini-svg-data-uri: ^1.4.3
   checksum: 5ff9d8bbc45cac313f4c6e53370810aa8a554f15e59de9ae691b09fd33e4c193ef9464070faf8aef2d2acda21c591a0239bb1b8957091c5bef685c5bea72d45c
+  languageName: node
+  linkType: hard
+
+"flowbite@npm:^3.1.1":
+  version: 3.1.1
+  resolution: "flowbite@npm:3.1.1"
+  dependencies:
+    "@popperjs/core": ^2.9.3
+    flowbite-datepicker: ^1.3.1
+    mini-svg-data-uri: ^1.4.3
+    postcss: ^8.5.1
+  checksum: f039d9063370415d60b375221d1b404add5bd5e87fc9d747ef6d290e81793014f26a8433927ad9f055c062c3933b4d15d3567a5241ff0fd92c59fd9d71544c6f
   languageName: node
   linkType: hard
 
@@ -4887,6 +4909,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"nanoid@npm:^3.3.8":
+  version: 3.3.8
+  resolution: "nanoid@npm:3.3.8"
+  bin:
+    nanoid: bin/nanoid.cjs
+  checksum: dfe0adbc0c77e9655b550c333075f51bb28cfc7568afbf3237249904f9c86c9aaaed1f113f0fddddba75673ee31c758c30c43d4414f014a52a7a626efc5958c9
+  languageName: node
+  linkType: hard
+
 "natural-compare@npm:^1.4.0":
   version: 1.4.0
   resolution: "natural-compare@npm:1.4.0"
@@ -5373,6 +5404,17 @@ __metadata:
     picocolors: ^1.1.1
     source-map-js: ^1.2.1
   checksum: eb5d6cbdca24f50399aafa5d2bea489e4caee4c563ea1edd5a2485bc5f84e9ceef3febf170272bc83a99c31d23a316ad179213e853f34c2a7a8ffa534559d63a
+  languageName: node
+  linkType: hard
+
+"postcss@npm:^8.5.1":
+  version: 8.5.1
+  resolution: "postcss@npm:8.5.1"
+  dependencies:
+    nanoid: ^3.3.8
+    picocolors: ^1.1.1
+    source-map-js: ^1.2.1
+  checksum: cfdcfcd019fca78160341080ba8986cf80cd6e9ca327ba61b86c03e95043e9bce56ad2e018851858039fd7264781797360bfba718dd216b17b3cd803a5134f2f
   languageName: node
   linkType: hard
 
@@ -6568,7 +6610,7 @@ __metadata:
     eslint-config-next: ^14.2.8
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^5.2.1
-    flowbite: ^2.5.2
+    flowbite: ^3.1.1
     flowbite-react: ^0.10.2
     js-cookie: ^3.0.1
     jsurl: ^0.1.5
