@@ -3567,15 +3567,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flowbite@npm:^3.1.1":
-  version: 3.1.1
-  resolution: "flowbite@npm:3.1.1"
+"flowbite@npm:^3.1.2":
+  version: 3.1.2
+  resolution: "flowbite@npm:3.1.2"
   dependencies:
     "@popperjs/core": ^2.9.3
     flowbite-datepicker: ^1.3.1
     mini-svg-data-uri: ^1.4.3
     postcss: ^8.5.1
-  checksum: f039d9063370415d60b375221d1b404add5bd5e87fc9d747ef6d290e81793014f26a8433927ad9f055c062c3933b4d15d3567a5241ff0fd92c59fd9d71544c6f
+  checksum: ed0d87d77a2fad4f7324b381a8608c26ff6e25c68f1b50871548b68ea60bfe7570f43c052f479b3b3fb1ca6a28ed3094a1e9883e1448760f43a1be0b658ee4ee
   languageName: node
   linkType: hard
 
@@ -6610,7 +6610,7 @@ __metadata:
     eslint-config-next: ^14.2.8
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^5.2.1
-    flowbite: ^3.1.1
+    flowbite: ^3.1.2
     flowbite-react: ^0.10.2
     js-cookie: ^3.0.1
     jsurl: ^0.1.5
