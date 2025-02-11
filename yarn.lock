@@ -6234,10 +6234,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:^4.0.3":
-  version: 4.0.3
-  resolution: "tailwindcss@npm:4.0.3"
-  checksum: 18a24ade85781a7979e485ea0c518ec39001818144676b69db3aa6f013a8c8ce76f876710c12212b5d8fa09a40aacf77c54937ef1f512d74cd3f65dc1ae14c8b
+"tailwindcss@npm:^4.0.6":
+  version: 4.0.6
+  resolution: "tailwindcss@npm:4.0.6"
+  checksum: 67c857a34f8265a88f1a2787f1e69127a3d6c122b75b0d99060188facb3d4d81397726aec596d7c0ac2966a6ba924761d19c46a2f65c3abe45dbc0cb5beff76f
   languageName: node
   linkType: hard
 
@@ -6620,7 +6620,7 @@ __metadata:
     react: ^18.3.1
     react-dom: ^18.3.1
     react-google-recaptcha-enterprise: ^1.0.3
-    tailwindcss: ^4.0.3
+    tailwindcss: ^4.0.6
     typescript: 5.7.2
   languageName: unknown
   linkType: soft
