@@ -680,14 +680,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tanstack/react-query@npm:^5.66.9":
-  version: 5.66.9
-  resolution: "@tanstack/react-query@npm:5.66.9"
+"@tanstack/react-query@npm:^5.66.10":
+  version: 5.66.10
+  resolution: "@tanstack/react-query@npm:5.66.10"
   dependencies:
     "@tanstack/query-core": 5.66.4
   peerDependencies:
     react: ^18 || ^19
-  checksum: f81de05a362fc8e1d4d44353ff1c8abba0ca268f1c856b63eeaf50bcdba23c7a003045fdafe7540975d432c50f53af9041174d6eeb9fd8e2d8564591603533f4
+  checksum: ee5fa2aceb212c66cee17e0f4e1928294ecbf416002ce0a81801d67d088bca706488df1e0aba14382886f0f7ae841453162440b90c4a61f0dfb10ba73b2312d5
   languageName: node
   linkType: hard
 
@@ -6629,7 +6629,7 @@ __metadata:
   dependencies:
     "@netlify/plugin-nextjs": ^5.9.0
     "@playwright/test": ^1.50.1
-    "@tanstack/react-query": ^5.66.9
+    "@tanstack/react-query": ^5.66.10
     "@types/cookie": ^1.0.0
     "@types/js-cookie": ^3.0.3
     "@types/node": 22.13.5
