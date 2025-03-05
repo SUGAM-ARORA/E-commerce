@@ -19,7 +19,7 @@
     "@wix/events": "^1.0.432",
     "@wix/redirects": "^1.0.67",
     "@wix/sdk": "^1.12.12",
-    "@wix/stores": "^1.0.363",
+    "@wix/stores": "^1.0.376",
     "body-scroll-lock": "^4.0.0-beta.0",
     "cookie": "^1.0.2",
     "date-fns": "^4.1.0",
