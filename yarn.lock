@@ -932,6 +932,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@wix/auto_sdk_redirects_redirects@npm:1.0.1":
+  version: 1.0.1
+  resolution: "@wix/auto_sdk_redirects_redirects@npm:1.0.1"
+  dependencies:
+    "@wix/sdk-runtime": ^0.3.35
+    "@wix/sdk-types": ^1.12.4
+  checksum: f08b7007aa96d4d48bd8792e0d6f84b3ddcc45b46ade053eb26fa9ac3bd82fbe80895c42e7eb20e7de1ef01b6726cea47eea95358b9d08c7ec06cfb95dfc463f
+  languageName: node
+  linkType: hard
+
 "@wix/ecom@npm:^1.0.869":
   version: 1.0.869
   resolution: "@wix/ecom@npm:1.0.869"
@@ -1775,12 +1785,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/redirects@npm:^1.0.67":
-  version: 1.0.67
-  resolution: "@wix/redirects@npm:1.0.67"
+"@wix/redirects@npm:^1.0.75":
+  version: 1.0.75
+  resolution: "@wix/redirects@npm:1.0.75"
   dependencies:
-    "@wix/redirects_redirects": 1.0.36
-  checksum: ad59070b0e8c8cc56233d53ad09097b53db718b86ce77b03a9849325c18bfada0a0b007f3b6bfe2a3ce0e24478aae16937a9d0a90ff6bc081b404a7f9026bd48
+    "@wix/auto_sdk_redirects_redirects": 1.0.1
+  checksum: dd42257075dd2e494b78bc31eec851518331a751584112902a24699f580a7377e0682face79e4e78a7298f6b655a149a4f1532000e55f7a592dabd44524253a4
   languageName: node
   linkType: hard
 
@@ -1793,16 +1803,6 @@ __metadata:
     "@wix/sdk-runtime": ^0.2.10
     "@wix/sdk-types": ^1.5.11
   checksum: 4db5127a4e2999fab7bb7ec6a4b4135d429b8227797623b58c7a058e77fed9bc8c0b0bd52d3e68bb6a15c09ab8b34b7b7d368c0db2fb0e1a35f044e441b6d229
-  languageName: node
-  linkType: hard
-
-"@wix/redirects_redirects@npm:1.0.36":
-  version: 1.0.36
-  resolution: "@wix/redirects_redirects@npm:1.0.36"
-  dependencies:
-    "@wix/sdk-runtime": ^0.3.22
-    "@wix/sdk-types": ^1.12.4
-  checksum: 56622f4785fda66e9c961c7521f2f6a424b2d673925abaad1cb7d6f6be2fee3cc447ee53597cd644a3c81667a13d853e835311f33d95d0a918e3d8e986b95cd6
   languageName: node
   linkType: hard
 
@@ -6637,7 +6637,7 @@ __metadata:
     "@types/react-dom": 18.3.1
     "@wix/ecom": ^1.0.869
     "@wix/events": ^1.0.432
-    "@wix/redirects": ^1.0.67
+    "@wix/redirects": ^1.0.75
     "@wix/sdk": ^1.12.12
     "@wix/stores": ^1.0.363
     autoprefixer: ^10.4.20
