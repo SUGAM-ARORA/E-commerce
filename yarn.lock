@@ -742,12 +742,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.13.5":
-  version: 22.13.5
-  resolution: "@types/node@npm:22.13.5"
+"@types/node@npm:22.13.16":
+  version: 22.13.16
+  resolution: "@types/node@npm:22.13.16"
   dependencies:
     undici-types: ~6.20.0
-  checksum: 8789d9bc3efd212819fd03f7bbd429901b076703e9852ccf4950c8c7cd300d5d5a05f273d0936cbaf28194485d2bd0c265a1a25390720e353a53359526c28fb3
+  checksum: c08460da2cceb4f6b77e3a849213b52cafa5a7c69d788bf1e15f89d1b733e6be2788bf37cd4396c6c09359c516e91ffb21b78f71233e50f27ee5a7bb8e219e11
   languageName: node
   linkType: hard
 
@@ -6632,7 +6632,7 @@ __metadata:
     "@tanstack/react-query": ^5.66.9
     "@types/cookie": ^1.0.0
     "@types/js-cookie": ^3.0.3
-    "@types/node": 22.13.5
+    "@types/node": 22.13.16
     "@types/react": 18.3.7
     "@types/react-dom": 18.3.1
     "@wix/ecom": ^1.0.869
