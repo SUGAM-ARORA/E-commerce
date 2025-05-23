@@ -673,21 +673,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tanstack/query-core@npm:5.66.4":
-  version: 5.66.4
-  resolution: "@tanstack/query-core@npm:5.66.4"
-  checksum: 947d89e844e46d8a13f2ba412227f534ab2d3c7a2f8c09ea3f00b5962ad0eadef94eeec67f61269990a0db23ce13d89df8f62de8bf98976ebda51e014ecbf811
+"@tanstack/query-core@npm:5.76.2":
+  version: 5.76.2
+  resolution: "@tanstack/query-core@npm:5.76.2"
+  checksum: a49eb53ed46b7fa0c434560ff0161a76b1aab69ee393c881644c94202407616c196e33f972e9f7de37817438b4f59ecb5c607af12906cef2bef18e7dd326ebce
   languageName: node
   linkType: hard
 
-"@tanstack/react-query@npm:^5.66.9":
-  version: 5.66.9
-  resolution: "@tanstack/react-query@npm:5.66.9"
+"@tanstack/react-query@npm:^5.76.2":
+  version: 5.76.2
+  resolution: "@tanstack/react-query@npm:5.76.2"
   dependencies:
-    "@tanstack/query-core": 5.66.4
+    "@tanstack/query-core": 5.76.2
   peerDependencies:
     react: ^18 || ^19
-  checksum: f81de05a362fc8e1d4d44353ff1c8abba0ca268f1c856b63eeaf50bcdba23c7a003045fdafe7540975d432c50f53af9041174d6eeb9fd8e2d8564591603533f4
+  checksum: 62b85818fe9f16c270aa647a1e4787e502392f63458d0df90488b27087072975ff1fbe3b1529de2535c9863670cdbc1fac4536a8cd9edae1f372a9288a83e124
   languageName: node
   linkType: hard
 
@@ -6629,7 +6629,7 @@ __metadata:
   dependencies:
     "@netlify/plugin-nextjs": ^5.9.0
     "@playwright/test": ^1.50.1
-    "@tanstack/react-query": ^5.66.9
+    "@tanstack/react-query": ^5.76.2
     "@types/cookie": ^1.0.0
     "@types/js-cookie": ^3.0.3
     "@types/node": 22.13.5
